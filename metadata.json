@@ -1,0 +1,6 @@
+{
+  "name": "Natalia Oreiro — Aprende Español Jugando",
+  "description": "Aplicación interactiva y juego educativo para aprender español con la entrevista real de Natalia Oreiro en Cala, subtítulos interactivos, traducciones al armenio y minijuegos.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
